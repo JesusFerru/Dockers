@@ -1,6 +1,6 @@
 Descargar Docker en Máquina virtual
     
-    apt-get install docker.io
+    *apt-get install docker.io
 
 Comandos Básicos
     docker
