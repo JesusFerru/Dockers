@@ -1,15 +1,15 @@
-#Docker
-##Descargar Docker en Máquina virtual
+# Docker
+## Descargar Docker en Máquina virtual
     
     apt-get install docker.io
 
-##Comandos Básicos
+## Comandos Básicos
 
         docker
-    ###Ver imagenes del docker
+### Ver imagenes del docker
         docker image ls
         docker images
-    ###Ver procesos del docker
+### Ver procesos del docker
         docker ps 		
 
         docker ps -a 		//Ver procesos o contenedores del docker, pero los ve todos
